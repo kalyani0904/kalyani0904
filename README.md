@@ -5,7 +5,7 @@
 <h1 align="center">
   <span style="color:white; background-color:black; padding:10px; border-radius:10px;">
     <a href="#" style="text-decoration:none;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ankita" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF5733&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kalyani" alt="Typing SVG" />
     </a>
   </span>
 </h1>
@@ -17,12 +17,12 @@
 
 
 <h3 align="center" style="color:white; font-size:24px; font-weight:bold; background-color:black; padding:10px; border-radius:10px;">
-About me:- Data Scientist 
+About me:- Computer Engineering 
 </h3>
 
 <div align="center" style="background-color:black; color:white; padding:20px; border-radius:10px; font-size:20px;">
-  <p>🔭 I’m currently working on <a href="https://github.com/Ankitaghavate/Python-for-Data-Science" style="color:cyan; text-decoration:none; font-size:20px;">Python for Data Science</a></p>
-  <p>🌱 I’m currently learning <b>Python for Data Science and Machine Learning</b></p>
+ <!-- <p>🔭 I’m currently working on <a href="https://github.com/Ankitaghavate/Python-for-Data-Science" style="color:cyan; text-decoration:none; font-size:20px;">Python for Data Science</a></p>
+  <p>🌱 I’m currently learning <b>Python for Data Science and Machine Learning</b></p>-->
   </div>
 
 
